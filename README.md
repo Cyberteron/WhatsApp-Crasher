@@ -1,4 +1,4 @@
-https://images.app.goo.gl/S4ZeJ5pbrvWDHcEz9
+
 # <p align="center">WaCrasher
 ###### <p align="center">Crash Whatsapp by  sending autotext.
 ***
